@@ -2,7 +2,7 @@
 
 ## 🚀 Live Demo
 
-👉 https://Princeyadav-2005.github.io/portfolio/
+👉 https://princeyadav-2005.github.io/my-portfolio/
 
 ## 📌 About
 
